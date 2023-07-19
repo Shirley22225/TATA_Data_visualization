@@ -1,5 +1,6 @@
 # TATA_Data_visualization
 Using dashboards to communicate business Insights and Analysis to improve the quality of life of communities.
+
 Below is a preview of the findings 
 
 ![Screenshot (430)](https://github.com/Shirley22225/TATA_Data_visualization/assets/3306225/48da76fb-d62a-4cee-939f-a83ca4d07b32)
